@@ -4,18 +4,19 @@
     "url": "https://www.vestal.ml",
     "icon": "https://favicons.githubusercontent.com/www.vestal.ml",
     "slug": "vestal",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
     "time": 528,
     "timeDay": 528,
     "timeWeek": 528,
     "timeMonth": 528,
     "timeYear": 528,
     "dailyMinutesDown": {
+      "2021-06-17": 0,
       "2021-06-16": 5
     }
   }
